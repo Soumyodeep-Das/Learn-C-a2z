@@ -1,0 +1,18 @@
+1.  Bi-Section
+2.  Newton-Raphson (N-R)
+3.  Regula-Falsi
+4.  Sacent
+5.  Trapezoidal
+6.  Simpson 1/3rd
+7.  Newton Forward Intepolation
+8.  Newton Backward Intepolation
+9.  Lagrange's Interpolation
+10. Gauss Elimination
+11. Gauss Jacobi
+12. Gauss Seidal
+13. Gauss Jordon
+14. Runge-Kutta 
+15. Eular's
+16. Modified Eular's
+17. Least Square
+18. Errors
